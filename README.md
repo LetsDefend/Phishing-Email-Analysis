@@ -1,4 +1,5 @@
 # Phishing Email Analysis
+![phishing](https://github.com/LetsDefend/Phishing-Email-Analysis/blob/main/phishing.jpg)
 
 ## Useful tools
 [MX Lookup](https://mxtoolbox.com/ "MX Lookup")
