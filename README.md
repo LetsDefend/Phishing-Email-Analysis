@@ -13,8 +13,10 @@
 
 ## Reputation Check
 [Virustotal](https://www.virustotal.com/gui/ "Virustotal")\
+[Dehashed](https://metadefender.com/ "Metadefender")\
 [Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")\
 [AbuseIPDB](https://www.abuseipdb.com/ "AbuseIPDB")
 
 ## Analysis
-[Phishing Analysis Steps](https://app.letsdefend.io/academy/lesson/Phishing-Attack/ "Phishing Analysis Steps")
+[Phishing Analysis Steps](https://app.letsdefend.io/academy/lesson/Phishing-Attack/ "Phishing Analysis Steps")/
+[ISIT Phishing](https://isitphishing.org/ "ISIT Phishing")
